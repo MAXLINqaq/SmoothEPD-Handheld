@@ -112,6 +112,7 @@
 | [06 Android](docs/06-android.md) | 跑 Android 的硬件门槛、显示栈难点、三条路径 |
 | [07 Godot 移植](docs/07-godot-port.md) | 400×300 刷新率测算、Godot 三条落地路径 |
 | [08 引擎](docs/08-engine.md) | 自研 2D 引擎结构、API、Godot→C 映射、资产管线 |
+| [10 采购清单](docs/10-shopping-list.md) | 现在要买什么、多少钱、怎么避坑（另附 [CSV](docs/shopping-list.csv)） |
 | [99 参考](docs/99-references.md) | 上游项目、数据手册、社区资料 |
 
 ## 9. 参考与致谢
