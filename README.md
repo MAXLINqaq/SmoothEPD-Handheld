@@ -110,6 +110,8 @@
 | [04 路线图](docs/04-roadmap.md) | 里程碑、时间估算、风险与对策 |
 | [05 BOM](docs/05-bom.md) | 分阶段物料清单与参考价格 |
 | [06 Android](docs/06-android.md) | 跑 Android 的硬件门槛、显示栈难点、三条路径 |
+| [07 Godot 移植](docs/07-godot-port.md) | 400×300 刷新率测算、Godot 三条落地路径 |
+| [08 引擎](docs/08-engine.md) | 自研 2D 引擎结构、API、Godot→C 映射、资产管线 |
 | [99 参考](docs/99-references.md) | 上游项目、数据手册、社区资料 |
 
 ## 9. 参考与致谢
