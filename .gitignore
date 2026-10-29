@@ -1,0 +1,42 @@
+# ---- ESP-IDF ----
+build/
+sdkconfig
+sdkconfig.old
+sdkconfig.*.old
+managed_components/
+dependencies.lock
+*.bin
+*.elf
+*.map
+*.pyc
+__pycache__/
+.vscode/
+.devcontainer/
+
+# ---- KiCad ----
+*.kicad_prl
+*.kicad_pcb-bak
+*-backups/
+_autosave-*
+fp-info-cache
+*.lck
+*.bak
+*.rpt
+
+# ---- 3D / 结构 ----
+*.gcode
+*.stl
+!mechanical/release/*.stl
+
+# ---- 临时与实验 ----
+.research/
+tmp/
+*.log
+*.wav
+*.png
+!docs/**/*.png
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
+desktop.ini
